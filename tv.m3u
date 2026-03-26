@@ -1,0 +1,23 @@
+#EXTM3U
+
+# Kurdish
+#EXTINF:-1,Rudaw
+https://live.rudaw.net/hls/stream.m3u8
+#EXTINF:-1,Kurdistan TV
+https://cdn.kurdistan24.net/live/ktv.m3u8
+#EXTINF:-1,K24
+https://d2xqbi89vwy0ad.cloudfront.net/out/v1/k24.m3u8
+#EXTINF:-1,NRT
+https://media.nrt.tv/stream/playlist.m3u8
+
+# Sports
+#EXTINF:-1,Abu Dhabi Sports
+https://admdn3.cdn.mangomolo.com/adsports/smil:adsports.stream.smil/playlist.m3u8
+
+# Movies
+#EXTINF:-1,MBC 2
+https://mbc2-live.simplestreamcdn.com/live/mbc2/playlist.m3u8
+
+# Series
+#EXTINF:-1,MBC 4
+https://mbc4-live.simplestreamcdn.com/live/mbc4/playlist.m3u8
